@@ -16,3 +16,24 @@ fill in the blanks
 they watch tv after dinner
 he walks to the office 
 we play chess on sunday.
+
+
+so i wake up at 8.am.
+yes i drink coffee
+
+
+Present Tense :
+there are four types of present tense
+1 simple present tense
+2 present continues tense
+3 present perfect tense
+4 present perfect continues tense
+
+1 simple present tense:
+- which are daily habits or everyday doing
+2 present continues tense
+- which happening now 
+3 present perfect tense
+- action which just finished or started in the past and still true
+4 present perfect continues tense
+- action started in the past and is still going on
