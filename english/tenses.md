@@ -40,3 +40,19 @@ there are four types of present tense
 
 
 My name is abhishek jaswal .I wake up 8 am. Right now i am earning english and the topic is present tense and i enjoy.Ariv told me dont drink coffee butI have already drink coffee.I have been try to learn english for 4 years but now i am enjoying. 
+
+
+every morning i brush my teeth and take bath 
+then i eat my breakfast and go to my room for study
+Right now,I am sitting in the room on the table and writing an paragraph for present tense.
+i have not read any pages so far.
+i have been reading presenttense last one hour 
+i like to write after learning.
+
+correct paragraph 
+Every morning, I brush my teeth and take a bath.
+Then I eat my breakfast and go to my room to study.
+Right now, I am sitting in the room at the table and writing a paragraph on the present tense.
+I have not read any pages so far.
+I have been reading about the present tense for the last one hour.
+I like to write after learning.
