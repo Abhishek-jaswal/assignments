@@ -32,6 +32,17 @@
 <div itemscope itemtype="https://schema.org/Person">
   <span itemprop="name">Abhishek Jaswal</span>
 </div>
+<!--drag and drop api-->
+<div draggable="true" ondragstart="drag(event)">Drag me</div>
+<div ondrop="drop(event)" ondragover="allowDrop(event)">Drop here</div>
+<script>
+    function allowDrop(e) { e.preventDefault(); }
+function drag(e) { e.dataTransfer.setData("text", e.target.id); }
+function drop(e) {
+  e.preventDefault();
+  const data = e.dataTransfer.getData("text");
+  e.target.appendChild(document.getElementById(data));
+}
 
-</body>
+</script></body>
 </html>
