@@ -20,11 +20,18 @@
 <meta property="og:image" content="image.jpg">
 <!--canvas-->
 <canvas id="myCanvas" width="200" height="100"></canvas>
+<!--templates-->
+<template id="card-template">
+    <div class="card">template content here</div>
+</template>
 <script>
   const ctx = document.getElementById("myCanvas").getContext("2d");
   ctx.fillStyle = "blue";
   ctx.fillRect(10, 10, 150, 75);
 </script>
+<div itemscope itemtype="https://schema.org/Person">
+  <span itemprop="name">Abhishek Jaswal</span>
+</div>
 
 </body>
 </html>
